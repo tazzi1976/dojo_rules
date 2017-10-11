@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * prova
+* prova 2
+* prova 3
